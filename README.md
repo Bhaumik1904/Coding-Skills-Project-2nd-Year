@@ -3,6 +3,17 @@
 > **Coding Skills Project — 2nd Year | Section C**
 > SRM University, AP | B.Tech CSE
 
+[![Live Demo](https://img.shields.io/badge/🚀%20Live%20Demo-Visit%20Site-brightgreen?style=for-the-badge)](https://coding-skills-project-2nd-year.vercel.app/)
+[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com)
+
+---
+
+## 🌐 Live Demo
+
+🔗 **[https://coding-skills-project-2nd-year.vercel.app/](https://coding-skills-project-2nd-year.vercel.app/)**
+
+The project is deployed on **Vercel** — no setup needed, just open the link and start exploring!
+
 ---
 
 ## 📌 About the Project
@@ -50,10 +61,11 @@ The project is built as an educational tool to visually walk through each step o
 | Tailwind CSS 3 | Utility-first styling |
 | Recharts | Bar chart and line chart visualizations |
 | Lucide React | Icon library |
+| Vercel | Deployment and hosting |
 
 ---
 
-## 🚀 Getting Started
+## 🚀 Getting Started Locally
 
 ### Prerequisites
 - Node.js (v18 or above)
@@ -120,4 +132,4 @@ Fractional Knapsack/
 
 ## 📄 License
 
-This project was developed as part of an academic course submission at Amity University.
+This project was developed as part of an academic course submission at **SRM University, AP**.

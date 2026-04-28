@@ -1,7 +1,7 @@
 # 📦 Fractional Knapsack Visualizer
 
 > **Coding Skills Project — 2nd Year | Section C**
-> Amity University | B.Tech CSE
+> SRM University, AP | B.Tech CSE
 
 ---
 

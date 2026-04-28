@@ -16,6 +16,43 @@ The project is deployed on **Vercel** — no setup needed, just open the link an
 
 ---
 
+## 📸 Screenshots — App Walkthrough
+
+### 1️⃣ Home — Cargo Loading Setup
+> The landing page where you configure the ship capacity and add cargo items.
+
+![Home Setup Page](screenshots/1_home_setup.png)
+
+---
+
+### 2️⃣ Inventory — Sample Data Loaded
+> After clicking **"Load Sample Data"**, four cargo items appear with their weight, profit, and profit-to-weight ratio pre-calculated.
+
+![Sample Data Loaded](screenshots/2_sample_data.png)
+
+---
+
+### 3️⃣ Simulation — Greedy Algorithm in Action
+> Step-by-step simulation of the **Greedy Algorithm** — picking items with the highest ratio first. The ship's cargo bar fills progressively.
+
+![Greedy Algorithm Simulation](screenshots/3_greedy_simulation.png)
+
+---
+
+### 4️⃣ Simulation — Naive Selection Approach
+> The **Naive Selection** strategy loads items in their original order without any ratio analysis, resulting in suboptimal profit.
+
+![Naive Selection Simulation](screenshots/4_naive_simulation.png)
+
+---
+
+### 5️⃣ Final Results — Profit Comparison & Charts
+> At the end of the simulation, a **Final Results** panel shows the profit difference, followed by a **Bar Chart** and a **Line Chart** comparing both approaches step-by-step.
+
+![Final Results and Charts](screenshots/5_final_results.png)
+
+---
+
 ## 📌 About the Project
 
 The **Fractional Knapsack Visualizer** is an interactive web application that demonstrates and compares the **Greedy Algorithm** against a **Naive (Sequential) Selection** approach for solving the classic Fractional Knapsack problem.

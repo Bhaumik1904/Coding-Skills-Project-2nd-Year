@@ -153,13 +153,13 @@ Fractional Knapsack/
 
 ## 👥 Team Details
 
-| Name | Enrollment Number |
-|---|---|
-| Bhaumik Hinunia | AP24110010182 |
-| Manya Srivastava | AP24110010171 |
-| Vardhana Paluvai | AP24110012136 |
-| Jayanti Yadav | AP24110010132 |
-| Vijithendra Nagabhyru | AP24110010184 |
+| Name | Enrollment Number | GitHub |
+|---|---|---|
+| Bhaumik Hinunia | AP24110010182 | [@Bhaumik1904](https://github.com/Bhaumik1904) |
+| Manya Srivastava | AP24110010171 | [@Manya349](https://github.com/Manya349) |
+| Vardhana Paluvai | AP24110012136 | [@paluvaivishnu](https://github.com/paluvaivishnu) |
+| Jayanti Yadav | AP24110010132 | [@jayantiyadav04](https://github.com/jayantiyadav04) |
+| Vijithendra Nagabhyru | AP24110010184 | [@vijithendra24](https://github.com/vijithendra24) |
 
 **Course:** Coding Skills
 **Year:** 2nd Year
